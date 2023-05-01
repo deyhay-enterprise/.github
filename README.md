@@ -1,3 +1,0 @@
-# .github
-
-# DeyHay Enterprise
