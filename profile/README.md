@@ -16,3 +16,6 @@ https://deyhayenterprise.com/
 
 Lazada Shopping Link; 
 https://www.lazada.com.ph/shop/deyhay-enterprise
+
+link to pages: 
+https://deyhay-enterprise.github.io/pages/
